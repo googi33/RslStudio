@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C Source File">
+<includepath>/home/joshin/OmapL137DevEnv/dsplink_1_65_00_03/dsplink/gpp/inc</includepath>
+<includepath>/home/joshin/OmapL137DevEnv/dsplink_1_65_00_03/dsplink/gpp/inc/usr</includepath>
+<includepath>/home/joshin/OmapL137DevEnv/dsplink_1_65_00_03/dsplink/gpp/inc/sys/Linux</includepath>
+<includepath>/home/joshin/OmapL137DevEnv/dsplink_1_65_00_03/dsplink/gpp/inc/sys/arch/DA8XXGEM</includepath>
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C Source File">
+<macro>
+<name>OS_LINUX</name><value/>
+</macro>
+<macro>
+<name>PROFILE</name><value/>
+</macro>
+<macro>
+<name>MAX_DSPS</name><value>1</value>
+</macro>
+<macro>
+<name>MAX_PROCESSORS</name><value>2</value>
+</macro>
+<macro>
+<name>ID_GPP</name><value>1</value>
+</macro>
+<macro>
+<name>OMAPL1XX</name><value/>
+</macro>
+<macro>
+<name>PROC_COMPONENT</name><value/>
+</macro>
+<macro>
+<name>POOL_COMPONENT</name><value/>
+</macro>
+<macro>
+<name>NOTIFY_COMPONENT</name><value/>
+</macro>
+<macro>
+<name>MPCS_COMPONENT</name><value/>
+</macro>
+<macro>
+<name>RINGIO_COMPONENT</name><value/>
+</macro>
+<macro>
+<name>MPLIST_COMPONENT</name><value/>
+</macro>
+<macro>
+<name>MSGQ_COMPONENT</name><value/>
+</macro>
+<macro>
+<name>MSGQ_ZCPY_LINK</name><value/>
+</macro>
+<macro>
+<name>CHNL_COMPONENT</name><value/>
+</macro>
+<macro>
+<name>CHNL_ZCPY_LINK</name><value/>
+</macro>
+<macro>
+<name>ZCPY_LINK</name><value/>
+</macro>
+<macro>
+<name>KFILE_DEFAULT</name><value/>
+</macro>
+<macro>
+<name>DA8XXGEM</name><value/>
+</macro>
+<macro>
+<name>DA8XXGEM_PHYINTERFACE</name><value>SHMEM_INTERFACE</value>
+</macro>
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+</cdtprojectproperties>
